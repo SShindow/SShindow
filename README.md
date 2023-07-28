@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Cao Xuan Hai</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
-- 🔭 I’m currently working on **projects that have high practical uses**
+- 🏫 I’m a **senior majoring in Computer Science at Vietnamese-German University**
 
 - 🌱 I’m currently learning **Backend development**
 
 - 👀 I’m interested in **Software Development and UX/UI design**
 
-- 🤝 I’m looking for help with **landing my first job**
+- 🤝 I’m looking for help in **landing my first job**
 
 - 👨‍💻 Know more about me at [https://haicaoxuan.vercel.app/](https://haicaoxuan.vercel.app/)
-
-- 🏫 I’m a **senior majoring in Computer Science at Vietnamese-German University**
 
 - ⚡ Fun fact **I have ear piercings**
 
